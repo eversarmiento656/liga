@@ -3,5 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas Perfectas 2
+## Notas Perfectas 3
 Esta es la nota correcta.
