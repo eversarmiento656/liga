@@ -1,6 +1,6 @@
 # Heroes
 
-* Superman
+* Superman fuerte
 * Batman
 * Aquaman
 * Mujer Maravilla
