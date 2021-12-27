@@ -1,4 +1,4 @@
 # Ciudades
 
-1. Ciudad Gótica
+1. Ciudad Gótica actualizada
 2. Metrópolis
